@@ -1,7 +1,8 @@
-1-inseir as imagens no html
-2-dar o id pra cada uma (como os nomes que ja tem na imagen)
-3-criar o css e linkar ao html
-4-fazer as configurações de altura e largura de cada uma.
+1-baixar a pastinha no github
+2-inseir as imagens no html
+3-dar o id pra cada uma (como os nomes que ja tem na imagen)
+4-criar o css e linkar ao html
+5-fazer as configurações de altura e largura de cada uma.
 
 flor 1
 
