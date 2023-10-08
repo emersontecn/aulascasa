@@ -1,24 +1,21 @@
-header{
+header {
 
     border: 1px solid black;
     height: 150px;
     width: 100%;
     display: flex;
     justify-content: center;
-   
-     
+
 }
 
 
-header #banner{
+header #banner {
 
     border: 1px solid black;
     width: 400px;
     height: 100px;
     align-self: center;
-    
-   
- 
+
 }
 
 nav {
@@ -30,11 +27,9 @@ nav {
     align-self: flex-end;
     justify-self: flex-start;
 
-
-   
 }
 
-main{
+main {
 
     border: 1px solid black;
     height: auto;
@@ -47,7 +42,6 @@ main{
 main div {
 
     border: 1px solid black;
-   
     flex-basis: 900px;
     margin: 15px;
 
@@ -56,7 +50,7 @@ main div {
 
 /* seções de plantas1 */
 
-.planta1{
+.planta1 {
 
     border: 1px solid rgb(0, 0, 0);
     min-height: 400px;
@@ -74,7 +68,7 @@ main div {
     height: 150px;
     flex-basis: 200px;
     margin: 15px;
-    
+
 }
 
 .planta1 #descricao {
@@ -90,7 +84,7 @@ main div {
 /* seção 2 */
 
 
-.planta2{
+.planta2 {
 
     border: 1px solid rgb(0, 0, 0);
     min-height: 400px;
@@ -108,7 +102,7 @@ main div {
     height: 150px;
     flex-basis: 200px;
     margin: 15px;
- 
+
 }
 
 .planta2 #descricao {
@@ -118,9 +112,9 @@ main div {
     flex-basis: 1000px;
     margin: 10px;
     text-align: justify;
-}  
+}
 
-footer{
+footer {
     border: 1px solid rgb(57, 243, 0);
     height: 100px;
     width: 100%;
@@ -130,7 +124,7 @@ footer{
 
 /* seção 3 */
 
-.planta3{
+.planta3 {
 
     border: 1px solid rgb(0, 0, 0);
     min-height: 400px;
@@ -148,7 +142,7 @@ footer{
     height: 150px;
     flex-basis: 200px;
     margin: 15px;
- 
+
 }
 
 .planta3 #descricao {
@@ -158,9 +152,9 @@ footer{
     flex-basis: 1000px;
     margin: 10px;
     text-align: justify;
-}  
+}
 
-footer{
+footer {
     border: 1px solid rgb(57, 243, 0);
     height: 100px;
     width: 100%;
